@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "lifeUp-plugin",
+	"name": "LifeUp integration plugin",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "This is a plugin that, through the integration of the LifeUp API with Obsidian, allows you to view and complete tasks.",
+	"author": "Franciszeka Mataio",
+	"authorUrl": "https://github.com/FranciszekaMateu",
+	"fundingUrl": "",
 	"isDesktopOnly": false
 }
